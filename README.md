@@ -20,6 +20,8 @@ dvc dag
 ```bash
 touch filename.extension
 ```
+## Check the dag to understand the dependency of the files.
+
 ![image](https://github.com/Praveenku32k/Dvc_Basic_AIOPs_project/assets/68581081/7d861e4b-a140-4d6b-ba0d-9d3268ec6f34)
 
 
