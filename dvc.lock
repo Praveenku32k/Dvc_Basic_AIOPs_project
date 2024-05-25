@@ -21,5 +21,5 @@ stages:
       size: 8
     - path: stage_02.py
       hash: md5
-      md5: 75a7fca1e757bed209ed56f1e2b58720
-      size: 118
+      md5: aa6556fee0735eb4b5f820c22eb6927f
+      size: 135
