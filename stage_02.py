@@ -6,3 +6,4 @@ with open("artifacts01.txt","r") as f:
 print(text)
 
 print("end of changes")
+print("ehello")
